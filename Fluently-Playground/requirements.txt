@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+gradio==4.19.2
+pillow
+omegaconf
+peft
+numpy
