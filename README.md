@@ -1,4 +1,4 @@
-<h1><center><img src="assets/logo_200x200.png" width="35px" style="display: inline" alt="">Fluently Diffusion</center></h1>
+<h1><center><img src="assets/logo_200x200.png" width="34px" style="display: inline" alt="">Fluently Diffusion</center></h1>
 
 Introducing the **Project Fluently**, the goal of this project is to create the best Stable Diffusion models, now we have several powerful models, you can find them [here](https://huggingface.co/fluently?sort_models=likes#models).
 
@@ -24,7 +24,7 @@ We create Stable Diffusion models, train them and merge them. We make both SD1.5
 - [Fluently v2](https://huggingface.co/fluently/Fluently-v2)
 - [Fluently v1](https://huggingface.co/fluently/Fluently-v1)
 
-*For the latest models there is a Space on HuggingFace: [click here](https://huggingface.co/spaces/fluently/Fluently-Playground)*
+*For the latest models there is a Space on HuggingFace: [click here](https://huggingface.co/spaces/fluently/Fluently-Playground)*.
 
 ### Community
 
