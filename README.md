@@ -15,6 +15,9 @@ We create Stable Diffusion models, train them and merge them. We make both SD1.5
 - [Fluently XL v1](https://huggingface.co/fluently/Fluently-XL-v1)
 
 *(SD1.5):*
+- [Fluently v4](https://huggingface.co/fluently/Fluently-v4)
+- [Fluently v4-inpainting](https://huggingface.co/fluently/Fluently-v4-inpainting)
+- [Fluently v4-LCM](https://huggingface.co/fluently/Fluently-v4-LCM)
 - [Fluently v3.5](https://huggingface.co/fluently/Fluently-v3.5)
 - [Fluently v3](https://huggingface.co/fluently/Fluently-v3)
 - [Fluently v3-inpainting](https://huggingface.co/fluently/Fluently-3-inpainting)
