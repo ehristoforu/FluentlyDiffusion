@@ -1,4 +1,4 @@
-# <img src="assets/logo_200x200.png" width="34px" style="display: inline" alt=""> **Fluently Diffusion**
+# **Fluently Diffusion**
 
 Introducing the **Project Fluently**, the goal of this project is to create the best Stable Diffusion models, now we have several powerful models, you can find them [here](https://huggingface.co/fluently?sort_models=likes#models).
 
