@@ -11,6 +11,8 @@ We create Stable Diffusion models, train them and merge them. We make both SD1.5
 #### List of Fluently family models:
 
 *(SDXL):*
+- [Fluently XL Final](https://huggingface.co/fluently/Fluently-XL-Final)
+- [Fluently XL v4](https://huggingface.co/fluently/Fluently-XL-v4)
 - [Fluently XL v3](https://huggingface.co/fluently/Fluently-XL-v3)
 - [Fluently XL v3 Lightning](https://huggingface.co/fluently/Fluently-XL-v3-Lightning)
 - [Fluently XL v3-inpainting](https://huggingface.co/fluently/Fluently-XL-v3-inpainting)
